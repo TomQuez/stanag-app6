@@ -6,6 +6,9 @@ This repository contains the following standards for easy reuse in other project
 
 - APP-6 D
 
+- APP-6 E can be found in https://github.com/spatialillusions/milstandard-e
+
+
 ## Usage
 
 `npm install stanag-app6`
